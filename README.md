@@ -3,17 +3,17 @@
 <img src="https://github.com/ElSamanody/ElSamanody/blob/main/assets/welcome.gif" alt="Welcome Banner" width="70%" />
 
 ### 👋 Hi there, I'm Elsayed Elsamanody  
-🎯 **Front End Developer | UI/UX Designer**
+🎯 **Front End Developer**
 
 </div>
 
 ---
 
 ### 💡 About Me
-- 💻 Front End Developer passionate about creating **responsive and interactive user interfaces** using HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS.  
-- 🎨 Skilled in using **Figma** to design clean and modern UI before turning them into code.  
+- 💻 Front End Developer passionate about building **responsive and interactive user interfaces** using HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS.  
+- 🎨 I have basic knowledge of **Figma**, which helps me turn design ideas into functional layouts.  
 - 🚀 Always learning new technologies and following best practices to write clean, efficient, and maintainable code.  
-- 🤝 I enjoy collaborating with teams to build high-quality projects and deliver great user experiences.  
+- 🤝 I enjoy collaborating with others to create great web experiences.  
 
 ---
 
@@ -28,14 +28,13 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=black)
 
 ---
 
 ### 🌱 Currently Learning
 - ⚛️ **React** — building dynamic and modern front-end applications.  
 - 🟢 **Node.js** — exploring backend development and JavaScript runtime.  
-- 🎨 Improving **UI/UX design skills** using Figma and Tailwind CSS.  
+- 🎨 Improving front-end performance and UI organization using **Tailwind CSS** and **Figma**.  
 
 ---
 
@@ -54,7 +53,7 @@
 
 📧 **elsayedelsamanody98@gmail.com**  
 📍 Gharbia, Egypt  
-💬 [LinkedIn](#) • [GitHub](https://github.com/ElSamanody)
+💬 [LinkedIn](https://www.linkedin.com/in/elsayed-elsamanody-a118a4219/) • [GitHub](https://github.com/ElSamanody)
 
 ---
 
