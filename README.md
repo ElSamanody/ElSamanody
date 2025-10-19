@@ -2,22 +2,22 @@
 
 <img src="https://github.com/ElSamanody/ElSamanody/blob/main/assets/welcome.gif" alt="Welcome Banner" width="70%" />
 
-### 👋 مرحبًا، أنا Elsayed Elsamanody  
+### 👋 Hi there, I'm Elsayed Elsamanody  
 🎯 **Front End Developer | UI/UX Designer**
 
 </div>
 
 ---
 
-### 💡 عني
-- 💻 مطوّر **Front End** متخصص في بناء **واجهات تفاعلية وسريعة** باستخدام HTML, CSS, JavaScript, Bootstrap وTailwind CSS.  
-- 🎨 أستخدم **Figma** لتصميم واجهات المستخدم قبل تحويلها إلى كود فعلي.  
-- 🚀 أسعى دائمًا لتعلم تقنيات جديدة وتطبيق أفضل الممارسات في كتابة الكود النظيف والمنظم.  
-- 🤝 أحب التعاون والعمل الجماعي لتطوير مشاريع مميزة وتجارب مستخدم فريدة.  
+### 💡 About Me
+- 💻 Front End Developer passionate about creating **responsive and interactive user interfaces** using HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS.  
+- 🎨 Skilled in using **Figma** to design clean and modern UI before turning them into code.  
+- 🚀 Always learning new technologies and following best practices to write clean, efficient, and maintainable code.  
+- 🤝 I enjoy collaborating with teams to build high-quality projects and deliver great user experiences.  
 
 ---
 
-### 🛠️ الأدوات التي أستخدمها
+### 🛠️ Tools & Technologies I Use
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -32,14 +32,14 @@
 
 ---
 
-### 🌱 أتعلم حاليًا
-- ⚛️ **React** لبناء تطبيقات واجهة أمامية احترافية.  
-- 🟢 **Node.js** لفهم بيئة الجافاسكريبت على السيرفر وربطها بالمشروعات المستقبلية.  
-- 🎨 تطوير مهارات التصميم باستخدام **Figma** و**Tailwind CSS**.
+### 🌱 Currently Learning
+- ⚛️ **React** — building dynamic and modern front-end applications.  
+- 🟢 **Node.js** — exploring backend development and JavaScript runtime.  
+- 🎨 Improving **UI/UX design skills** using Figma and Tailwind CSS.  
 
 ---
 
-### 📈 إحصائياتي على GitHub
+### 📈 GitHub Stats
 
 <div align="center">
 
@@ -50,10 +50,10 @@
 
 ---
 
-### 🌍 تواصل معي
+### 🌍 Contact Me
 
 📧 **elsayedelsamanody98@gmail.com**  
-📍 الغربية، مصر  
+📍 Gharbia, Egypt  
 💬 [LinkedIn](#) • [GitHub](https://github.com/ElSamanody)
 
 ---
