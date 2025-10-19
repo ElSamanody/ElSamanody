@@ -51,9 +51,8 @@
 
 ### 🌍 Contact Me
 
-📧 **elsayedelsamanody98@gmail.com**  
-📍 Gharbia, Egypt  
-💬 [LinkedIn](https://www.linkedin.com/in/elsayed-elsamanody-a118a4219/) • [GitHub](https://github.com/ElSamanody)
+ 
+💬 [LinkedIn](https://www.linkedin.com/in/elsayed-elsamanody-a118a4219/) 
 
 ---
 
