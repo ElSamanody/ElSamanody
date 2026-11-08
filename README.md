@@ -117,15 +117,13 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/elsayed-elsamanody-a118a4219/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" />
 </a>
-
 <a href="mailto:elsayedelsamanody98@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge" alt="Email" />
 </a>
-
 <a href="https://wa.me/201014468679">
-  <img src="https://img.shields.io/badge/WhatsApp-Message_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge" alt="WhatsApp" />
 </a>
 
 </div>
