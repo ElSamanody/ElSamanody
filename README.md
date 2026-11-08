@@ -3,17 +3,24 @@
 <img src="https://github.com/ElSamanody/ElSamanody/blob/main/assets/welcome.gif" alt="Welcome Banner" width="70%" />
 
 ### 👋 Hi there, I'm Elsayed Elsamanody  
-🎯 **Front End Developer**
+🎯 **IT Support | Help Desk | Windows Server | Networking**
+
+
 
 </div>
 
 ---
 
 ### 💡 About Me
-- 💻 Front End Developer passionate about building **responsive and interactive user interfaces** using HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS.  
-- 🎨 I have basic knowledge of **Figma**, which helps me turn design ideas into functional layouts.  
-- 🚀 Always learning new technologies and following best practices to write clean, efficient, and maintainable code.  
-- 🤝 I enjoy collaborating with others to create great web experiences.  
+- 💻 Entry-level IT Support professional focused on troubleshooting hardware, software, Windows, and network issues.
+
+- 🖥️ Hands-on experience building and managing a Windows Server lab using VMware, including Active Directory, DNS, DHCP, and Group Policy.
+
+- 🌐 Practicing network configuration and troubleshooting using Cisco Packet Tracer.
+
+- 🔧 Interested in IT Infrastructure, System Administration, and Network Administration.
+
+- 🚀 Continuously developing my technical skills through practical labs and hands-on projects. 
 
 ---
 
