@@ -103,11 +103,10 @@
 
 ## 📊 GitHub Statistics
 
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ElSamanody&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElSamanody&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://ghstats.dev/api/card?username=ElSamanody&theme=tokyonight" width="80%" alt="GitHub Statistics" />
 
 </div>
 
