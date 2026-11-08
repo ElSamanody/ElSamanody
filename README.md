@@ -1,70 +1,132 @@
+# 👋 Hi, I'm Elsayed Elsamanody
+
 <div align="center">
 
-<img src="https://github.com/ElSamanody/ElSamanody/blob/main/assets/welcome.gif" alt="Welcome Banner" width="70%" />
+<img src="https://github.com/ElSamanody/ElSamanody/blob/main/assets/welcome.gif" width="70%" alt="Welcome Banner" />
 
-### 👋 Hi there, I'm Elsayed Elsamanody  
-🎯 **IT Support | Help Desk | Windows Server | Networking**
+### IT Support | Help Desk | Windows Server | Networking
 
-
+<p>
+  <img src="https://img.shields.io/badge/IT_Support-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
 
 </div>
 
 ---
 
-### 💡 About Me
-- 💻 Entry-level IT Support professional focused on troubleshooting hardware, software, Windows, and network issues.
+## 👨‍💻 About Me
 
-- 🖥️ Hands-on experience building and managing a Windows Server lab using VMware, including Active Directory, DNS, DHCP, and Group Policy.
-
-- 🌐 Practicing network configuration and troubleshooting using Cisco Packet Tracer.
-
-- 🔧 Interested in IT Infrastructure, System Administration, and Network Administration.
-
-- 🚀 Continuously developing my technical skills through practical labs and hands-on projects. 
+- Entry-level IT Support candidate interested in IT infrastructure and technical support.
+- Hands-on experience building a Windows Server 2025 lab using VMware Workstation.
+- Practicing Active Directory, DNS, DHCP, Group Policy, user management, and file sharing.
+- Learning network configuration and troubleshooting through Cisco Packet Tracer.
+- Background in Front-End Development with experience in HTML, CSS, JavaScript, and React.
 
 ---
 
-### 🛠️ Tools & Technologies I Use
+## 🖥️ Technical Skills
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+### Operating Systems & Server Administration
+
+<p>
+<img src="https://img.shields.io/badge/Windows_10%2F11-0078D6?style=flat-square&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows_Server_2025-0078D6?style=flat-square&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Active_Directory-4479A1?style=flat-square&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Group_Policy-5E5E5E?style=flat-square&logo=microsoft&logoColor=white" />
+</p>
+
+### Networking
+
+<p>
+<img src="https://img.shields.io/badge/TCP%2FIP-00599C?style=flat-square" />
+<img src="https://img.shields.io/badge/DNS-4285F4?style=flat-square" />
+<img src="https://img.shields.io/badge/DHCP-008272?style=flat-square" />
+<img src="https://img.shields.io/badge/VLANs-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+</p>
+
+### Virtualization & Infrastructure
+
+<p>
+<img src="https://img.shields.io/badge/VMware_Workstation-607078?style=flat-square&logo=vmware&logoColor=white" />
+<img src="https://img.shields.io/badge/File_Sharing-4479A1?style=flat-square&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/FSRM-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/IT_Troubleshooting-555555?style=flat-square&logo=windows&logoColor=white" />
+</p>
+
+### Additional Skills
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
 
 ---
 
-### 🌱 Currently Learning
-- ⚛️ **React** — building dynamic and modern front-end applications.  
-- 🟢 **Node.js** — exploring backend development and JavaScript runtime.  
-- 🎨 Improving front-end performance and UI organization using **Tailwind CSS** and **Figma**.  
+## 🧪 Practical Labs & Projects
+
+**Windows Server 2025 – IT Infrastructure Lab**
+
+- Active Directory Domain Services (AD DS)
+- Domain Controller configuration and domain joining
+- DNS and DHCP configuration
+- Organizational Units and User Management
+- Group Policy configuration and management
+- Local Administrator permissions and delegation
+- File Server, Shared Folders and NTFS Permissions
+- File Server Resource Manager (FSRM)
+- Account Lockout Policies and USB Restrictions
+- Windows Firewall configuration
+
+**Networking Labs**
+
+- Network configuration using Cisco Packet Tracer
+- VLANs, Routing and Switching fundamentals
+- DHCP, DNS and Network Troubleshooting
 
 ---
 
-### 📈 GitHub Stats
+## 📚 Currently Learning
+
+- CompTIA A+ — In Progress
+- Windows Server Administration
+- Active Directory and Group Policy
+- Network Troubleshooting and CCNA Topics
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-![Elsayed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElSamanody&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElSamanody&layout=compact&theme=tokyonight)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ElSamanody&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElSamanody&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-### 🌍 Contact Me
+## 📫 Connect With Me
 
- 
-💬 [LinkedIn](https://www.linkedin.com/in/elsayed-elsamanody-a118a4219/) 
+<div align="center">
+
+<a href="https://www.linkedin.com/in/elsayed-elsamanody-a118a4219/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
-  
-✨ *"Every great website starts with a clean line of code."* ✨
+
+**Always Learning | Always Troubleshooting | Always Improving**
 
 </div>
