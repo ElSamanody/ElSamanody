@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://github.com/ElSamanody/ElSamanody/blob/main/assets/welcome.gif" width="70%" alt="Welcome Banner" />
+<img src="./assets/it-support-banner.jpg" width="100%" alt="IT Support Banner" />
 
 ### IT Support | Help Desk | Windows Server | Networking
 
